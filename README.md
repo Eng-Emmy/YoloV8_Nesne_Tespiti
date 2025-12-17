@@ -9,7 +9,7 @@ Proje Raporu: YOLOv8 Tabanlı Nesne Tespiti ve PyQt5 Görsel Arayüz Uygulaması
 Adınız: Emmanuel
 Soyadınız: HAKIRUWIZERA
 Okul Numaranız: 2440631002
-GitHub Repo Bağlantısı:
+GitHub Repo Bağlantısı: https://github.com/Eng-Emmy/YoloV8_Nesne_Tespiti/blob/main/Proje_YOLOv8_Tabanl%C4%B1_Nesne_Tespiti_.ipynb
 
 
 Proje Açıklaması
